@@ -1,0 +1,62 @@
+[
+	{
+		"id": 123001,
+		"type": "Osveshchennost",
+		"devices": {
+			"name": 123456, 
+			"model": "4-20 IN1"
+		},
+		"map": "карта",
+		"indicator": "500LX"
+	},
+	{
+		"id": 2220002,
+		"type": "Dver",
+		"devices": {
+			"name": 323456, 
+			"model": "SW1"
+		},
+		"map": "карта",
+		"indicator": "закрыто"
+	},
+	{
+		"id": 2220003,
+		"type": "Temperatura",
+		"devices": {
+			"name": 323456,
+			"model": "SW2"
+		},
+		"map": "карта",
+		"indicator": "+10 °C"
+	},
+	{
+		"id": 2220004,
+		"type": "Vlazhnost",
+		"devices": {
+			"name": 323456,
+			"model": "SW3"
+		},
+		"map": "карта",
+		"indicator": "10%"
+	},
+	{
+		"id": 2220005,
+		"type": "Dym",
+		"devices": {
+			"name": 323456,
+			"model": "4-20 IN1"
+		},
+		"map": "карта",
+		"indicator": "-"
+	},
+	{
+		"id": 2220006,
+		"type": "Schyotchik",
+		"devices": {
+			"name": 323456,
+			"model": "RS 405"
+		},
+		"map": "карта",
+		"indicator": "-"
+	}
+]
